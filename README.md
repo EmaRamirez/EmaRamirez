@@ -24,21 +24,21 @@
 
 
 ##  Contacto
-<div>
+
+<div  flex-direction="column">
 <a href="https://www.linkedin.com/in/emanuel-ramirez-3b875220b/">
   
   ![Static Badge](https://img.shields.io/badge/-linkedin-blue?logo=linkedin)
-
   
 </a>  
-</div>
-<div>
+
 <a href="mailto:emanuelramirez169@gmail.com">
   
   ![Static Badge](https://img.shields.io/badge/-emanuelramirez169@gmail.com-white?logo=gmail)
 
 </a>  
 </div>
+
 <!--
 **EmaRamirez/EmaRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

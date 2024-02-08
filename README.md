@@ -1,15 +1,18 @@
 
 ### <h2 align="center"> Welcome, this is my gitHub profile  👋 </h2>
-![Static Badge](https://img.shields.io/badge/-C%23-blue)
-![Static Badge](https://img.shields.io/badge/-blue?logo=.net)
-![Static Badge](https://img.shields.io/badge/-black?logo=html5)
-![Static Badge](https://img.shields.io/badge/-orange?logo=css3)
-![Static Badge](https://img.shields.io/badge/-black?logo=javascript)
+<div align="center">
+  
+![Static Badge](https://img.shields.io/badge/-C%23-blue?logo=csharp)
+![Static Badge](https://img.shields.io/badge/-.Net-blue?logo=dotnet)
+![Static Badge](https://img.shields.io/badge/-HTML-black?logo=html5)
+![Static Badge](https://img.shields.io/badge/-Css-orange?logo=css3)
+![Static Badge](https://img.shields.io/badge/-Javascript-gray?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/-MySql-white?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/-Microsoft_Sql_Server-blue?logo=microsoftsqlserver)
 ![Static Badge](https://img.shields.io/badge/-Angular-red?logo=angular)
-![Static Badge](https://img.shields.io/badge/-TypeScript-white?logo=typescript)
+![Static Badge](https://img.shields.io/badge/-Typescript-white?logo=typescript)
 
+</div>
 
 
 

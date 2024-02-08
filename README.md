@@ -1,5 +1,15 @@
 
 ### <h2 align="center"> Welcome, this is my gitHub profile  👋 </h2>
+![Static Badge](https://img.shields.io/badge/-C%23-blue)
+![Static Badge](https://img.shields.io/badge/-blue?logo=.net)
+![Static Badge](https://img.shields.io/badge/-black?logo=html5)
+![Static Badge](https://img.shields.io/badge/-orange?logo=css3)
+![Static Badge](https://img.shields.io/badge/-black?logo=javascript)
+![Static Badge](https://img.shields.io/badge/-Microsoft_Sql_Server-blue?logo=microsoftsqlserver)
+
+
+
+
 
 ## ¿Quien soy?
 <p align="center"> Soy Emanuel Ramirez y tengo 28 años, soy de Buenos Aires Argentina y estoy cursando la  Tecnicatura de Analisis de Sistemas. </p>

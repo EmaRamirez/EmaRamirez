@@ -5,7 +5,12 @@
 ![Static Badge](https://img.shields.io/badge/-black?logo=html5)
 ![Static Badge](https://img.shields.io/badge/-orange?logo=css3)
 ![Static Badge](https://img.shields.io/badge/-black?logo=javascript)
+![Static Badge](https://img.shields.io/badge/-MySql-white?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/-Microsoft_Sql_Server-blue?logo=microsoftsqlserver)
+![Static Badge](https://img.shields.io/badge/-Angular-red?logo=angular)
+![Static Badge](https://img.shields.io/badge/-TypeScript-white?logo=typescript)
+
+
 
 
 

@@ -25,7 +25,7 @@
 
 ## <h2> Contacto </h2>
 
-<div  flex-direction="column">
+<div>
 <a href="https://www.linkedin.com/in/emanuel-ramirez-3b875220b/">
   
   ![Static Badge](https://img.shields.io/badge/-linkedin-blue?logo=linkedin)
@@ -50,6 +50,6 @@
 <div>
   
 ## <h2> Noticias </h2>
-<p>Proximamente estare subiendo mis proyectos terminados para poder compartirlos con ustedes</p>
+<p>Proximamente estare subiendo mis proyectos terminados para poder compartirlos con ustedes.</p>
 
   </div>

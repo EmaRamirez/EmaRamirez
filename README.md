@@ -29,7 +29,7 @@
   ![Static Badge](https://img.shields.io/badge/-linkedin-blue?logo=linkedin)
   
 </a>  
-<a href="emanuelramirez169@gmail.com">
+<a href="mailto:emanuelramirez169@gmail.com">
   
   ![Static Badge](https://img.shields.io/badge/-emanuelramirez169@gmail.com-white?logo=gmail)
 

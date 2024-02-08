@@ -1,5 +1,5 @@
 
-### <h2 align="center"> Welcome, this is my gitHub profile  👋 </h2>
+## <h2 align="center"> Welcome, this is my gitHub profile  👋 </h2>
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/-C%23-blue?logo=csharp)
@@ -19,11 +19,11 @@
 
 
 
-## ¿Quien soy?
+## <h2> ¿Quien soy? </h2> 
 <p align="center"> Soy Emanuel Ramirez, tengo 28 años, soy de Buenos Aires - Argentina y estoy cursando la  Tecnicatura de Analisis de Sistemas. </p>
 
 
-##  Contacto
+## <h2> Contacto </h2>
 
 <div  flex-direction="column">
 <a href="https://www.linkedin.com/in/emanuel-ramirez-3b875220b/">
@@ -39,21 +39,17 @@
 </a>  
 </div>
 
-
-## Actualmente estoy aprendiendo
+<div>
+  
+## <h2> Actualmente estoy aprendiendo </h2>
 
 * Phyton
-<!--
-**EmaRamirez/EmaRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  
+## <h2> Noticias </h2>
+<p>Proximamente estare subiendo mis proyectos terminados para poder compartirlos con ustedes</p>
+
+  </div>

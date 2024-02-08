@@ -26,7 +26,7 @@
 ##  Contacto
 
 <div  flex-direction="column">
-<a href="https://www.linkedin.com/in/emanuel-ramirez-3b875220b/">
+<a href="https://www.linkedin.com/in/emanuel-ramirez-3b875220b/" target="_blank">
   
   ![Static Badge](https://img.shields.io/badge/-linkedin-blue?logo=linkedin)
   

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome, this is my gitHub profile  👋
 
 <!--
 **EmaRamirez/EmaRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

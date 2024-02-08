@@ -1,7 +1,7 @@
 ### Welcome, this is my gitHub profile  👋
 
 ### ¿Quien soy?
-** Soy Emanuel Ramirez y tengo 28 años, soy de Buenos Aires Argentina y soy estudiante de la Tecnicatura de Analisis de Sistemas.
+Soy Emanuel Ramirez y tengo 28 años, soy de Buenos Aires Argentina y soy estudiante de la Tecnicatura de Analisis de Sistemas.
 <!--
 **EmaRamirez/EmaRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

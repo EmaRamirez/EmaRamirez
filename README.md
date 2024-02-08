@@ -31,7 +31,7 @@
 </a>  
 <a href="emanuelramirez169@gmail.com">
   
-  ![Static Badge](https://img.shields.io/badge/-Gmail-white?logo=gmail)
+  ![Static Badge](https://img.shields.io/badge/-emanuelramirez169@gmail.com-white?logo=gmail)
 
   
 </a>  

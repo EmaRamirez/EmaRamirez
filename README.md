@@ -1,6 +1,11 @@
 
 ### <h2 align="center"> Welcome, this is my gitHub profile  👋 </h2>
 <div align="center">
+<a href="https://www.linkedin.com/in/emanuel-ramirez-3b875220b/">
+  
+  ![Static Badge](https://img.shields.io/badge/-linkedin-blue?logo=linkedin)
+  
+</a>  
   
 ![Static Badge](https://img.shields.io/badge/-C%23-blue?logo=csharp)
 ![Static Badge](https://img.shields.io/badge/-.Net-blue?logo=dotnet)
@@ -20,7 +25,9 @@
 
 
 ## ¿Quien soy?
-<p align="center"> Soy Emanuel Ramirez y tengo 28 años, soy de Buenos Aires Argentina y estoy cursando la  Tecnicatura de Analisis de Sistemas. </p>
+<p align="center"> Soy Emanuel Ramirez, tengo 28 años, soy de Buenos Aires - Argentina y estoy cursando la  Tecnicatura de Analisis de Sistemas. </p>
+
+
 
 
 <!--
